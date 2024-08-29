@@ -3,6 +3,8 @@
   gap: 100px;
 }
 
+.cursor { cursor: pointer;}
+
 .avatar {
   border-radius: 50px 50px;
   color: transparent;
