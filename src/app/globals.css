@@ -13,8 +13,9 @@
   }
   
   body {
-    background-color: var(--bg);
-    color: var(--text);
+    /* background-color: var(--bg); */
+    color: rgb(4, 4, 4); 
+     /* var(--text); */
   
   }
   

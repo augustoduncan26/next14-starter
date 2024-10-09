@@ -12,8 +12,6 @@ import Image from 'next/image';
 const ContactPage = () => {
   // const a = Math.random();
 
-  console.log("Here");
-
   return (
     <div className={styles.container}>
       <div className={styles.imgContainer}>
